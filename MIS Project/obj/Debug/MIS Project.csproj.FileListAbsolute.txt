@@ -1,0 +1,30 @@
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\Debug\MIS Project.exe.config
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\Debug\MIS Project.exe
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\Debug\MIS Project.pdb
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS Project.csprojResolveAssemblyReference.cache
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Properties.Resources.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS Project.csproj.GenerateResource.Cache
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS Project.exe
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS Project.pdb
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.login.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.splash.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Signup.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Main_SM.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Main_SP.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Inventory.resources
+E:\Assignment 2\MIS Project\MIS Project\bin\Debug\MIS Project.exe.config
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS Project.exe
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS Project.pdb
+E:\Assignment 2\MIS Project\MIS Project\bin\Debug\MIS Project.exe
+E:\Assignment 2\MIS Project\MIS Project\bin\Debug\MIS Project.pdb
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS Project.csprojResolveAssemblyReference.cache
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Inventory.resources
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.login.resources
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Main_SM.resources
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Main_SP.resources
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Salesinfo.resources
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.SalesReport.resources
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Signup.resources
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.splash.resources
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS_Project.Properties.Resources.resources
+E:\Assignment 2\MIS Project\MIS Project\obj\Debug\MIS Project.csproj.GenerateResource.Cache

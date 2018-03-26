@@ -1,0 +1,13 @@
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\x86\Debug\MIS Project.exe.config
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\x86\Debug\MIS Project.exe
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\x86\Debug\MIS Project.pdb
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS_Project.Inventory.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS_Project.login.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS_Project.Main_SM.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS_Project.Main_SP.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS_Project.Signup.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS_Project.splash.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS_Project.Properties.Resources.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS Project.csproj.GenerateResource.Cache
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS Project.exe
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x86\Debug\MIS Project.pdb

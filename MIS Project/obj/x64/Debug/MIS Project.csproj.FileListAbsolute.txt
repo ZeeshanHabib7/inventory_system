@@ -1,0 +1,42 @@
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS Project.exe.config
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS Project.exe
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS Project.pdb
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Inventory.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.login.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Main_SM.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Main_SP.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Signup.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.splash.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Properties.Resources.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS Project.csproj.GenerateResource.Cache
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS Project.exe
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS Project.pdb
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS Project.csprojResolveAssemblyReference.cache
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Salesinfo.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.SalesReport.resources
+H:\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS Project.exe.config
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS Project.exe
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS Project.pdb
+H:\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS.mdf
+H:\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS_log.ldf
+H:\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS Project.exe
+H:\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS Project.pdb
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS Project.csprojResolveAssemblyReference.cache
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Inventory.resources
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.login.resources
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Main_SM.resources
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Main_SP.resources
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Salesinfo.resources
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.SalesReport.resources
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Signup.resources
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.splash.resources
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.Properties.Resources.resources
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS Project.csproj.GenerateResource.Cache
+H:\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.inventoryData.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS.mdf
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\MIS_log.ldf
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.inventoryData.resources
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\RdlCompile.cache
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\RdlCompile.compiled
+E:\5th Semester\MIS\Assignment 2\MIS Project\MIS Project\obj\x64\Debug\MIS_Project.SM_Menu.resources
